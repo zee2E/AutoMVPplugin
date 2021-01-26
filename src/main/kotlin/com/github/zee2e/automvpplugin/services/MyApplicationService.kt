@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zee2e.automvpplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zee2e.automvpplugin.MyBundle
 
 class MyApplicationService {
 
